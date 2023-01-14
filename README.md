@@ -15,6 +15,10 @@ SwiftUI
 
 # App Demo
 you will see that user can choose which habit want to be notified and also make it dynamic font accessible.
+
+
+
+
 # Challenge Summary
 <img width="1108" alt="Avengers_ToMakesSomeone'sLifeEasier_ADATWQ_2022_2023" src="https://user-images.githubusercontent.com/122597765/212277285-916af1b0-e685-48e3-a02b-95e14a336d6e.png">
 
@@ -23,6 +27,8 @@ you will see that user can choose which habit want to be notified and also make 
 we will let user can add more than habit, also we will active the happy jar, a jar will be filled by the user gratitude and best things happen in the day.
 # Developers
 Atheer Aljohani
+
+https://github.com/Atheerj
 
 https://www.linkedin.com/in/atheer-aljohani-20bb18206/
 

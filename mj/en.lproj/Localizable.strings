@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  mj
+
+  Created by shorouq khallaf on 18/06/1444 AH.
+  
+*/
+"check" = "Check your health habits ";
+"grateful" = "Today I am grateful for ";
+"the best" = "The best thing today";
+"habits Jar" = "Habit Jar";
+"drink" = "Drink 8 cups\nof water";
+"meditation" = "10 Minutes \nof meditation";
+"walk" = "Walk 10000\neveryday";
+"add" = "Add";
+"type" = "type here";
+"Drink0" = "Drink";
+"Meditation0" = "Meditation";
+"Walk0" = "Walk";
+"Drink1" = "Drink a cup of water 🚰";
+"Meditation1"= "Meditated for 10 minutes 🌌";
+"Walk1"= "Stand up and walk couple steps 👣";
+"Alert me" = "Alert me";
+"type" = "type" ;
+

@@ -23,6 +23,9 @@ you will see that user can choose which habit want to be notified and also make 
 we will let user can add more than habit, also we will active the happy jar, a jar will be filled by the user gratitude and best things happen in the day.
 # Developers
 Atheer Aljohani
+
 https://www.linkedin.com/in/atheer-aljohani-20bb18206/
 
 Shorouq Khallaf
+
+https://www.linkedin.com/in/shorouq-khallaf-53b84316b

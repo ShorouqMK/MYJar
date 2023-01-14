@@ -19,6 +19,10 @@ you will see that user can choose which habit want to be notified and also make 
 
 
 
+https://user-images.githubusercontent.com/122597765/212473079-112a1203-a2b7-4ffd-a154-6c7122a74024.mp4
+
+
+
 
 # Challenge Summary
 <img width="1108" alt="Avengers_ToMakesSomeone'sLifeEasier_ADATWQ_2022_2023" src="https://user-images.githubusercontent.com/122597765/212277285-916af1b0-e685-48e3-a02b-95e14a336d6e.png">
@@ -40,6 +44,10 @@ https://www.linkedin.com/in/atheer-aljohani-20bb18206/
 Shorouq Khallaf
 
 https://www.linkedin.com/in/shorouq-khallaf-53b84316b
+
+
+
+
 
 
 

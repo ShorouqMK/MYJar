@@ -19,8 +19,8 @@ you will see that user can choose which habit want to be notified and also make 
 
 
 
-https://user-images.githubusercontent.com/122597765/212473079-112a1203-a2b7-4ffd-a154-6c7122a74024.mp4
 
+https://user-images.githubusercontent.com/122597765/212473283-837f7663-030f-48c1-8fca-0f5d902869af.mp4
 
 
 

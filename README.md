@@ -1,18 +1,19 @@
 # MYJar
-our small app helps user to choose a habit and get notified to remember to do it in their day.
-also user will write every day in (Today I am grateful for ),(The best thing today).
+Our small app helps  a user to choose a habit and be notified to remember to do it in their day. User can  every day write (Today, I'm grateful for) or (The best thing today).
 # Challenge Statement
-(Make an inclusive solution that help people in bullet journal) 
+(Make an inclusive solution that help users in bullet journal) 
 
-as you see we started our big idea with bullet journal, as we search we find that journiling helpful for peaple in many ways
-we wanted to let the user to have best jornal experince with us. so as we goes throue work and our CBl we decided to foce in one of the journal parts which is tracking habites we choose the health habits as you will see in (solution concept)
+If you see, we started our big idea with bullet journal. As we search, we will find out that journaling is very useful for people in many ways. We wanted to let the user has the best journal experience with us. So, as we go through work and our CBL, we decided to force in one of the journal parts the tracking habits and choose the health habits, which you will see in the (Solution Concept).
+
+
 # Solution Concept
-(Provide ways for users to remember their daily habits)
-we wants to make it easy for users to remember their daily habits
-as well in good way as if they was using a journal. We focused on health because it is one of the most important side in the daily basis.
+
+(Provide ways for users to remember their daily habits).
+We wanted to make it easy for users to remember their daily habits using the best ways as if they were using a journal. We focused on health because it's one of the most important sides of our daily basis.
+
 # Technologies & Tools
 SwiftUI 
-
+UserNotifications
 # App Demo
 you will see that user can choose which habit want to be notified and also make it dynamic font accessible.
 
@@ -25,6 +26,10 @@ you will see that user can choose which habit want to be notified and also make 
 # In the future 
 
 we will let user can add more than habit, also we will active the happy jar, a jar will be filled by the user gratitude and best things happen in the day.
+
+# Download Our App
+
+Soon... 
 # Developers
 Atheer Aljohani
 
@@ -35,3 +40,7 @@ https://www.linkedin.com/in/atheer-aljohani-20bb18206/
 Shorouq Khallaf
 
 https://www.linkedin.com/in/shorouq-khallaf-53b84316b
+
+
+
+# Thank you.. 
